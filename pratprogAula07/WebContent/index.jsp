@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>cerveja.biz - Criar Cliente</title>
+    <title>Pais</title>
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
@@ -24,18 +24,18 @@
             <div class="row">
                 <div class="form-group col-md-12">
                     <label for="nome">Nome</label>
-                    <input type="text" class="form-control" name="nome" id="nome" required maxlength="100" placeholder="nome completo">
+                    <input type="text" class="form-control" name="nome" id="nome" required maxlength="100">
                 </div>
             </div>
             <div class="row">
                 <div class="form-group col-md-6">
-                    <label for="fone">Celular</label>
-                    <input type="tel" class="form-control" name="fone" id="fone" maxlength="15" pattern="(?:\(\d{2}\)|\d{2})[- ]?\d{5}[- ]?\d{4}" placeholder="opcional; celular com ddd no formato (99) 99999-9999">
+                    <label for="fone">Populacao</label>
+                    <input type="text" class="form-control" name="populacao" id="populacao" maxlength="15" pattern="(?:\(\d{2}\)|\d{2})[- ]?\d{5}[- ]?\d{4}">
                 </div>
 
                 <div class="form-group col-md-6">
-                    <label for="email">E-Mail</label>
-                    <input type="email" class="form-control" name="email" id="email" required maxlength="60" placeholder="email obrigatório">
+                    <label for="area">Area</label>
+                    <input type="text" class="form-control" name="area" id="area" required maxlength="60">
                 </div>
             </div>
             <hr />
