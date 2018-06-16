@@ -1,8 +1,14 @@
-Práticas de programação
+# Práticas de programação
 
-Uma compilação de exercícios para prática e nota
+Uma compilação de exercícios para prática e nota<p>
 
-Tópicos
+- Linguagem: Java
+- Curso: Ciência da Computação
+- Matéria: Práticas de programação
+- Semestre: Terceiro
+- Instituição: Universidade São Judas Tadeu
+
+## Tópicos
 
 1.  Classes Abstratas, Interfaces, Polimorfismo, Anotações 
 2.  Testes Unitários em Java com JUnit 
